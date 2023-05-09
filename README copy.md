@@ -1,3 +1,23 @@
+# Note_taker-express
+
+# Description
+A integrated full-stack application using Express and Node to dynamically create and manage content on HTML documents.  Users are asked for a title and text content, then may save that information, with the option to delete items, in the UI Left Menu card.
+
+# Install and run
+Clone repository, open the Development folder via the terminal, run "npm install" to import dependencies, run the Server.js file via Node with "node server.js, open browser to access localhost PORT 3001.
+
+# License 
+N/A
+
+# GitHub Repository
+https://github.com/Boyd212/note_taker-express
+
+# Heroku Deployment
+
+# Walkthrough Video
+
+===============================================
+
 # 11 Express.js: Note Taker
 
 ## Your Task
