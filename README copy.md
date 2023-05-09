@@ -15,7 +15,9 @@ https://github.com/Boyd212/note_taker-express
 # Heroku Deployment
 ![Alt text](../../Downloads/Heroku-Verification.png)
 CAN NOT GET PAST THIS ON HEROKU
+
 # So here is GitHub deployment
+https://boyd212.github.io/note_taker-express/
 
 # Walkthrough Video
 https://drive.google.com/file/d/1yyx5qVCx4ZJ7YaEejCX0d3_yqpwBg9uf/view
